@@ -34,11 +34,9 @@ I am a full stack developer, focused on developing creative full stack web and a
 
 <p>
   	 <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
-	
 	<a href="#"><img alt="Jquey" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
 	<a href="#"><img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
 	<a href="#"><img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-	
     <a href="#"><img alt="Mapbox" src="https://img.shields.io/badge/Mapbox-000000.svg?logo=mapbox&logoColor=white"></a>
     <a href="#"><img alt="GoogleMaps" src="https://img.shields.io/badge/GoogleMaps-3DDC84?logo=googlemaps&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23FF6F00.svg?logo=bootstrap&logoColor=white"></a>
